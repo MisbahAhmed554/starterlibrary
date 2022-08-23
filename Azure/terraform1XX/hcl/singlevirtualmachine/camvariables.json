@@ -29,6 +29,10 @@
                   "default": "true"
               },
               {
+                  "value": "Australia East",
+                  "label": "Australia East"
+              },
+              {
                   "value": "West US 2",
                   "label": "West US 2"
               },
